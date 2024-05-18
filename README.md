@@ -1,2 +1,2 @@
-# mlapps
-A repository dedicated to standard ML Algorithms written in pure C++
+# ML Apps
+A repository dedicated to standard ML Algorithms written in C++
